@@ -1,5 +1,5 @@
 # Flappy Bird RL
-# Reinforcement Learning: Flappy Bird
+Reinforcement Learning for the Video Game Flappy Bird
 
 ## Overview
 This repository contains an implementation of Deep Q-learning to train an agent to play the Flappy Bird game using a custom environment based on the `flappy_bird_gym` library.
