@@ -51,6 +51,6 @@ The custom environment can be found at: `Lib/site-packages/flappy_bird_gym/envs`
 
 ## Credits
 
-A big thank you to the creators and contributors of the [flappy-bird-gym repository](https://github.com/Talendar/flappy-bird-gym/) from which our custom environment was adapted. 
+A big thank you to the creators and contributors of the [flappy-bird-gym repository](https://github.com/Talendar/flappy-bird-gym/) from which the custom environment of this repository was adapted with a changed reward structure. 
 
 Please visit the above repository to understand more about the environment, and if you have improvements or issues, feel free to contribute! 
