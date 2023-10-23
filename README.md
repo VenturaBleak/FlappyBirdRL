@@ -16,13 +16,15 @@ The custom environment can be found at: `Lib/site-packages/flappy_bird_gym/envs`
 
 ### Files in the Repository:
 
-1. **.gitignore**: File that specifies intentionally untracked files to ignore.
-2. **dqn_flappybird_1.zip**: Pre-trained model weights for the initial training phase. Learning to fly.
-3. **dqn_flappybird_finetuned.zip**: Finetuned model weights after additional training. Learning to pass pipes.
-4. **eval.py**: Script to evaluate the trained agent's performance in the Flappy Bird environment.
-5. **train_pretrain.py**: Script to pre-train the agent on the Flappy Bird environment using Deep Q-learning.
-6. **train_finetune.py**: Script to further train (finetune) the agent using the saved pre-trained weights.
-7. **visualize.py**: Script to visualize the agent's gameplay.
+**Scripts**
+1. **train_pretrain.py**: Script to pre-train the agent on the Flappy Bird environment using Deep Q-learning.
+2. **train_finetune.py**: Script to further train (finetune) the agent using the saved pre-trained weights.
+3. **eval.py**: Script to evaluate the trained agent's performance in the Flappy Bird environment.
+4. **visualize.py**: Script to visualize an random actions taken by the agent.
+
+**Trained Models**
+5. **dqn_flappybird_1.zip**: Pre-trained model weights for the initial training phase. Learning to fly.
+6. **dqn_flappybird_finetuned.zip**: Finetuned model weights after additional training. Learning to pass pipes.
 
 ### How to Run:
 
