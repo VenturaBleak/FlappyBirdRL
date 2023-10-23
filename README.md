@@ -23,6 +23,7 @@ The custom environment can be found at: `Lib/site-packages/flappy_bird_gym/envs`
 4. **visualize.py**: Script to visualize an random actions taken by the agent.
 
 **Trained Models**
+
 5. **dqn_flappybird_1.zip**: Pre-trained model weights for the initial training phase. Learning to fly.
 6. **dqn_flappybird_finetuned.zip**: Finetuned model weights after additional training. Learning to pass pipes.
 
