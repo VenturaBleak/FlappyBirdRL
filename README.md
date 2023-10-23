@@ -8,8 +8,7 @@ This repository contains an implementation of Deep Q-learning to train an agent 
 
 Flappy Bird is a side-scrolling game where the player controls a bird, attempting to fly between columns of green pipes without colliding. The agent must guide the bird through these gaps to earn points. The challenge is to keep the bird afloat as long as possible without making contact with the pipes or the ground.
 
-![Flappy Bird](https://github.com/VenturaHaze/ReinforcementLearning/blob/master/yellow_bird_playing.gif)
-
+![Flappy Bird](https://github.com/VenturaBleak/FlappyBirdRL/blob/master/yellow_bird_playing.gif)
 Our custom environment can be found at: `Lib/site-packages/flappy_bird_gym/envs`. The base for this custom environment was adapted from this [repository](https://github.com/Talendar/flappy-bird-gym/).
 
 ## Code Structure
