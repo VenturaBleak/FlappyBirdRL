@@ -11,6 +11,8 @@ Flappy Bird is a side-scrolling game where the player controls a bird, attemptin
 ![Flappy Bird](https://github.com/VenturaBleak/FlappyBirdRL/blob/master/yellow_bird_playing.gif)
 Our custom environment can be found at: `Lib/site-packages/flappy_bird_gym/envs`. The base for this custom environment was adapted from this [repository](https://github.com/Talendar/flappy-bird-gym/).
 
+
+
 ## Code Structure
 
 ### Files in the Repository:
