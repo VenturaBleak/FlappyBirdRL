@@ -13,6 +13,9 @@ Our custom environment can be found at: `Lib/site-packages/flappy_bird_gym/envs`
 
 
 
+<br>
+
+
 ## Code Structure
 
 ### Files in the Repository:
